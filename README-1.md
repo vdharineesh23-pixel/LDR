@@ -43,4 +43,4 @@ The battery supplies DC voltage to the breadboard power rails. The LDR and resis
 **7\. Circuit Diagram and Practical Prototype**  
 ![.](circuit.jpg)
 
-![](result.jpg)
+![](Result.jpg)
